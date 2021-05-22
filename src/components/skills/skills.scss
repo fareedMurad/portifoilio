@@ -1,0 +1,37 @@
+@import "../../style/App.scss";
+
+.CircularProgressbar-path {
+  stroke: red;
+}
+.CircularProgressbar-trail {
+  stroke: gray;
+}
+.CircularProgressbar-text {
+  fill: yellow;
+}
+.CircularProgressbar-background {
+  fill: green;
+}
+#portfolio{
+  // background-image: url(../../assets/themes/Screenshot_18.png);
+  // background-repeat: repeat;
+  // background-size: cover;
+  // background-position: center;
+}
+.skill{
+
+  
+  background: rgba(99, 204, 183, 0.1);
+padding: 20px;
+.progress_bar_wrapper {
+  
+  width: 100px;
+  margin: 0 auto;
+  margin-top: 30px;
+  text-align: center;
+  .sub-para {
+    color: $black-color;
+    font-weight: bold;
+  }
+}
+}
